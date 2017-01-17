@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelancerScraper", "FreelancerScraper\FreelancerScraper.csproj", "{E44FC795-A069-45C6-82A6-97FE41C20BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperCoreLib", "ScraperCoreLib\ScraperCoreLib.csproj", "{E510125E-BBB3-4BAF-A4A3-84CC657DCB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperModel", "ScraperModel\ScraperModel.csproj", "{B5F4264A-2C79-4872-8F77-49757CC51C95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92BBC3CE-A02B-4C00-B39C-253F56968E08}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperFreelancerLib", "ScraperFreelancerLib\ScraperFreelancerLib.csproj", "{69AC0D8C-5AF7-4625-B0AB-36B7C5A04243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44FC795-A069-45C6-82A6-97FE41C20BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44FC795-A069-45C6-82A6-97FE41C20BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44FC795-A069-45C6-82A6-97FE41C20BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44FC795-A069-45C6-82A6-97FE41C20BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E510125E-BBB3-4BAF-A4A3-84CC657DCB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E510125E-BBB3-4BAF-A4A3-84CC657DCB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E510125E-BBB3-4BAF-A4A3-84CC657DCB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E510125E-BBB3-4BAF-A4A3-84CC657DCB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F4264A-2C79-4872-8F77-49757CC51C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F4264A-2C79-4872-8F77-49757CC51C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F4264A-2C79-4872-8F77-49757CC51C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F4264A-2C79-4872-8F77-49757CC51C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AC0D8C-5AF7-4625-B0AB-36B7C5A04243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AC0D8C-5AF7-4625-B0AB-36B7C5A04243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AC0D8C-5AF7-4625-B0AB-36B7C5A04243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AC0D8C-5AF7-4625-B0AB-36B7C5A04243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

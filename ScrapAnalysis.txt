@@ -1,0 +1,155 @@
+Sheet Annual found in Workbook ET_3.1.xls.
+Row: 3 .. first Column: ANNUAL DATA
+Year as Header
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.1.xls.
+Row: 3 .. first Column: QUARTERLY DATA
+Quarter and Year as Header
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.2.xls.
+Row: 3 .. first Column: ANNUAL DATA
+Year as Header
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.2.xls.
+Row: 3 .. first Column: QUARTERLY DATA
+Quarter and Year as Header
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.3.xls.
+Row: 1 .. first Column: Table 3.3 Supply and use of petroleum products - Annual
+data
+Year and other field as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.3.xls.
+Row: 1 .. first Column: Table 3.3 Supply and use of petroleum products - Quarter
+ly data
+Year, quarter and other field as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.4.xls.
+Row: 3 .. first Column: ANNUAL DATA
+Year and other field as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.4.xls.
+Row: 3 .. first Column: QUARTER DATA
+Year, quarter and other field as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.5.xls.
+Row: 4 .. first Column: ANNUAL DATA
+Year as Header
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.5.xls.
+Row: 4 .. first Column: QUARTERLY DATA
+Year and quarter as Header
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.6.xls.
+Row: 3 .. first Column: ANNUAL DATA
+Year in rows, other fields as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.6.xls.
+Row: 3 .. first Column: QUARTER DATA
+Year, quarter in rows, other fields as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.7.xls.
+Row: 0 .. first Column: 3 OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.7 Drilling activity on the UKCS
+Row: 2 .. first Column: Number of wells including sidetracks
+Row: 3 .. first Column: Offshore
+Row: 5 .. first Column: Exploration
+Row: 6 .. first Column: YEAR
+Year in rows, other fields as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.7.xls.
+Row: 0 .. first Column: 3 OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.7 Drilling activity on the UKCS
+Row: 3 .. first Column: Number of wells including sidetracks
+Row: 4 .. first Column: QUARTERLY FIGURES
+Row: 5 .. first Column: YEAR
+Row: 6 .. first Column: Exploration
+Year, quarter in rows, other fields as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.10.xls.
+Row: 4 .. first Column: ANNUAL DATA
+Year as rows, other as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.10.xls.
+Row: 4 .. first Column: QUARTERLY DATA
+Year, Quarter as rows, other as headers
+---------------------------------------------------
+Sheet Month found in Workbook ET_3.10.xls.
+Row: 4 .. first Column: MONTHLY DATA
+Year, Month, other as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.11.xls.
+Row: 0 .. first Column: 3 OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.11 Stocks of petroleum at end of period
+Row: 3 .. first Column: Crude oil and refinery process oil
+Row: 5 .. first Column: Year
+Year as rows, other as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.11.xls.
+Row: 0 .. first Column: 3 OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.11 Stocks of petroleum 1 at end of period
+Row: 6 .. first Column: YEAR
+Year, Quarter as rows, other as headers
+---------------------------------------------------
+Sheet Month found in Workbook ET_3.11.xls.
+Row: 4 .. first Column: MONTHLY DATA
+Year, Month as rows, other as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.12.xls.
+Row: 0 .. first Column: OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.12 Refinery throughput and output of petroleum p
+roducts
+Row: 3 .. first Column: Refinery use
+Row: 4 .. first Column: YEAR
+Row: 5 .. first Column: of crude and
+Row: 6 .. first Column: process oil
+Year as rows, other as headers
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.12.xls.
+Row: 0 .. first Column: OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.12 Refinery throughput and output of petroleum p
+roducts
+Row: 3 .. first Column: Refinery use
+Row: 5 .. first Column: of crude and
+Row: 6 .. first Column: YEAR
+Year, Quarter as rows, other as headers
+---------------------------------------------------
+Sheet Month found in Workbook ET_3.12.xls.
+Row: 0 .. first Column: OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.12 Refinery throughput and output of petroleum p
+roducts
+Row: 3 .. first Column: Refinery use
+Row: 5 .. first Column: of crude and
+Row: 6 .. first Column: YEAR
+Year, Month as rows, other as headers
+---------------------------------------------------
+Sheet Annual found in Workbook ET_3.13.xls.
+Row: 0 .. first Column: OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.13 Deliveries of petroleum products for inland c
+onsumption1,2
+Row: 3 .. first Column: YEAR
+Row: 5 .. first Column: Total
+---------------------------------------------------
+Sheet Quarter found in Workbook ET_3.13.xls.
+Row: 0 .. first Column: OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.13 Deliveries of petroleum products for inland c
+onsumption1,2
+Row: 4 .. first Column: QUARTERLY DATA
+Row: 6 .. first Column: YEAR
+---------------------------------------------------
+Sheet Month found in Workbook ET_3.13.xls.
+Row: 0 .. first Column: OIL & OIL PRODUCTS
+Row: 1 .. first Column: Table 3.13 Deliveries of petroleum products for inland c
+onsumption1,2
+Row: 4 .. first Column: MONTHLY DATA
+Row: 6 .. first Column: YEAR
+---------------------------------------------------
+Sheet Month-1 found in Workbook JODI_October_2016.xls.
+Row: 5 .. first Column: Country
+Row: 7 .. first Column: Month
+---------------------------------------------------
+
+Sheet Month-2 found in Workbook JODI_October_2016.xls.
+Row: 5 .. first Column: Country
+Row: 7 .. first Column: Month
+---------------------------------------------------

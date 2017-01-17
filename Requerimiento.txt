@@ -1,0 +1,20 @@
+Write C# code to extract data from various all excel files from https://www.gov.uk/government/statistics/oil-and-oil-products-section-3-energy-trends.
+
+The code will need to define all the data in each sheet of each workbook as C# classes.
+
+For each file you will need to implement a method that looks something like this:
+
+public ExcelSheetData GetExcelSheetData(string urlOfExcelFile, string sheetName)
+
+{
+
+// Scrape excel file and return objects as data
+
+}
+
+Descripción adicional del proyecto:
+
+12/02/2016 at 4:21 CST
+The code must be written in C#.
+
+Excel files should be scraped using either the ClosedXml library or NPOI library (both on nuget).

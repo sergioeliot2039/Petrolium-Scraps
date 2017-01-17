@@ -1,0 +1,26 @@
+Hi Goodier! Thanks for awarding project.Just one concern before accepting, about delivery time I specified 30 days, but chances are I need for time, say 1.5-2month or so? hollydays are coming and also Iam not full on his activity as per others projects.
+Hi. Yes that is fine. Perhaps we can split it into 2 stages? [mgoodier]
+Stage 1: 
+https://www.gov.uk/government/statistical-data-sets/crude-oil-and-petroleum-products-imports-by-product-1920-to-2011 https://www.gov.uk/government/statistical-data-sets/crude-oil-and-petroleum-production-imports-and-exports-1890-to-2011 https://www.gov.uk/government/statistics/petroleum-chapter-3-digest-of-united-kingdom-energy-statistics-dukes https://www.eia.gov/outlooks/steo/
+https://www.eia.gov/analysis/projection-data.cfm
+Stage 2: http://www.cores.es/en/estadisticas http://dgsaie.mise.gov.it/dgerm/bollettino_nuovo/indice.asp?anno=2016 http://dgsaie.mise.gov.it/dgerm/bollettino_nuovo/indice.asp?anno=2015 http://dgsaie.mise.gov.it/dgerm/bollettino_nuovo/indice.asp?anno=2014 https://ssb.no/energi-og-industri/statistikker/petroleumsalg/maaned/2016-11-15?fane=tabell#content https://ssb.no/energi-og-industri/statistikker/petroleumsalg/aar/2016-04-05?fane=tabell#content http://www.anp.gov.br/wwwanp/dados-estatisticos http://www.capp.ca/publications-and-statistics/crude-oil-forecast https://www.aer.ca/data-and-publications/statistical-reports/st3
+Yes, that will be good. So, I can accept project, then cancel milestone, and then you create milestone for half the price for first stage, do you agree?
+OK that is fine. Let me change that now [mgoodier]
+Ok, accepting project now
+2 milestones set up. Let me know your thoughts on the framework I've attached [mgoodier]
+(This makes it easier to fit into our existing code base and hopefully makes life easier for you too)
+So ready to begin. Yes sure, let me arrange sometime tomorrow, I will review then and get back to you.
+Hope it makes it easier :)
+Great thanks. There is a README file but sure you will have some questions so let me know! [mgoodier]
+Ok, cool! Will do, thank you too. Good bye now!
+16 December 2016 · 6:53 AM
+Hi Goodier, I saw the README file. Two question, the app has to unzip excel/pdf from compressed package? About links that link to other pages where excel are place those are not considered right?
+Also other question, I just need to add the DBSet for each model class right? final question for now, as the comment on code, no need to do actual save with db, correct?
+You might need to add something to unzip the files first - feel free to make any changes you need. And yes on the DbSet, just adding the property in the DbContext is fine as the save will be handled by the SaveData call you will make in the scrapes themselves [mgoodier]
+I recommend the ICSharpCode.SharpZipLib if you need to zip
+This method will unzip a zip file in memory public static Dictionary<string, byte[]> UnzipInMemory(byte[] zippedInput) { var dict = new Dictionary<string, byte[]>(); using (var inputStream = new MemoryStream(zippedInput)) { using (ZipInputStream s = new ZipInputStream(inputStream)) { ZipEntry theEntry; while ((theEntry = s.GetNextEntry()) != null) { var name = theEntry.Name; using (var output = new MemoryStream()) { StreamUtils.Copy(s, output, new byte[4096]); dict.Add(theEntry.Name, output.ToArray()); } } } } return dict; }
+Perfect. thanks.
+Let me know if you have any other questions! [mgoodier]
+Sure thing!!
+20 December 2016 · 5:30 AM
+Hi Sergio. Just wanted to see how you are getting on. Have you hit any issues or have any questions?
